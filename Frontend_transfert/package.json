@@ -1,0 +1,14 @@
+{
+  "name": "frontend_transfert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve":"lite-server"
+  },
+  "author": "Silmang Sarr",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
